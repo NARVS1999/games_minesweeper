@@ -9,7 +9,7 @@ features:
 - Cell reveal
 - Flag system
 
-Demo: 
+Demo: https://narvs1999.github.io/games_minesweeper/
 
 ![Demo Image](demo-image.png)
 
